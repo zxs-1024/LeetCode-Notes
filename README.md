@@ -8,6 +8,10 @@
 
 ### 二叉树
 
+- [二叉树的遍历](./notes/二叉树-遍历.md)
+- [二叉搜索树](./notes/二叉树-二叉搜索树.md)
+- [对称二叉树](./notes/二叉树-对称二叉树.md)
+
 ### 链表
 
 ### 哈希表
@@ -21,13 +25,6 @@
 ### 位运算
 
 ## 算法思想
-
-### 排序
-
-- [插入排序](./sort/insertionSort.js)
-- [冒泡排序](./sort/bubbleSort.js)
-- [选择排序](./sort/selectionSort.js)
-- [快速排序](./sort/quickSort.js)
 
 ### 回溯
 
